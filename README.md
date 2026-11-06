@@ -3,7 +3,7 @@
 ![NECRODIST](screenshot.jpg)
 
 Distortion plugin (VST3) for the necrotrap / underground scene.
-Made by VIOLENCE COLLECTIVE.
+Made by HXNGED.
 
 ## Features
 
